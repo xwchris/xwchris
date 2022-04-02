@@ -1,4 +1,7 @@
 ### Hi there, I’m xwchris 👋
+
+blog - [overfronted.net](https://overfronted.net)
+
 ## I’m a Front-end engineer!
 - 🔭 I’m currently working on bytedance
 - 🌱 I’m currently learning everything 🤣
