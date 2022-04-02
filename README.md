@@ -4,5 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Study, Improve and Earn Money!
 ### Connect with me:
-[<img align=”left” alt=”overfronted.net” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[website]: https://overfronted.net
+- email: xwchris.zhang@gmail.com
+- wechat: stellarecho
+
+We are looking for Frontend engineer, Bytedance, Hangzhou. Contact me!
