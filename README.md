@@ -5,7 +5,7 @@ blog - [overfronted.net](https://overfronted.net)
 ## I’m a Front-end engineer!
 - 🔭 I’m currently working on bytedance
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Study, Improve and Earn Money!
+- 🥅 2024 Goals: Stay focused!
 ### Connect with me:
 - email: xwchris.zhang@gmail.com
 - wechat: stellarecho
